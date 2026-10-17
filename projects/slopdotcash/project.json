@@ -102,6 +102,9 @@
     "chain": "solana",
     "rewardStartAt": "2026-10-11T00:00:00.000Z",
     "cycle": "calendar-month-utc",
+    "externalEvaluations": {
+      "enabled": true
+    },
     "monthlyCapMinor": "1000000000",
     "monthlyCapDisplay": "$1,000",
     "committedMinor": "0",
@@ -122,6 +125,7 @@
   },
   "links": {
     "repository": "https://github.com/SlopDotCash/slopdotcash",
-    "issues": "https://github.com/SlopDotCash/slopdotcash/issues"
+    "issues": "https://github.com/SlopDotCash/slopdotcash/issues",
+    "x": "https://x.com/SlopCash"
   }
 }
